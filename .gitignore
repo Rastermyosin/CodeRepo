@@ -1,3 +1,38 @@
+# =========================
+# MATLAB
+# =========================
+
+# Windows/OSX/Linux default autosave extension
+*.asv
+*.m~
+
+# Compiled MEX binaries (all platforms)
+*.mex*
+
+# Simulink Code Generation
+slprj/
+
+# =========================
+# LabView
+# =========================
+
+# LabVIEW Temp Files
+.aliases
+.lvlps
+.lvbitx
+
+# =========================
+# Microsoft Office
+# =========================
+
+
+
+
+
+# =========================
+# Windows
+# =========================
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -15,9 +50,6 @@ $RECYCLE.BIN/
 *.msp
 
 # =========================
-# Operating System Files
-# =========================
-
 # OSX
 # =========================
 
